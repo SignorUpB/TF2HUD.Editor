@@ -261,7 +261,7 @@
     <value>cerca:</value>
   </data>
   <data name="ui_select" xml:space="preserve">
-    <value>Selezione una HUD</value>
+    <value>Seleziona una HUD</value>
   </data>
   <data name="ui_switch" xml:space="preserve">
     <value>Scambia HUD</value>
